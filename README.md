@@ -1,4 +1,4 @@
-**Welcome to Sabbir Ahmed profile !**👋
+Welcome to Sabbir Ahmed profile !👋
 
 <!--
 **sabbir9936/sabbir9936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
