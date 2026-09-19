@@ -14,7 +14,7 @@ I am a Computer Science & Engineering student who loves programming,
 problem solving, and building useful software projects.
 
 - 🎓 CSE Student
-- 💻 Interested in Cyber Security,Software Development
+- 💻 Interested in Cyber Security & Software Development
 - ☕ Java & OOP Enthusiast
 - 🧑‍💻 Learning Data Structures & Algorithms
 - 🌐 Interested in Cyber Security
@@ -123,7 +123,7 @@ Java OOP based parking management system with:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir9936&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?sabbir9936&layout=compact&theme=tokyonight&hide_border=true">
 
 </p>
 
