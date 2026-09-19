@@ -117,18 +117,6 @@ Java OOP based parking management system with:
 ---
 
 
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?sabbir9936&layout=compact&theme=tokyonight&hide_border=true">
-
-</p>
-
----
-
 ## 🎯 My Goal
 
 > "Learn. Build. Improve. Repeat."
